@@ -13,7 +13,7 @@ with col2:
     with st.expander("Abstract",expanded=True):
         
         st.error("""
-        :+1: In this work we present Stmol, a custom component for introducing molecular 3D visualizations in Streamlit web apps. Stmol depends on the popular package Py3DMol and is intended for helping computational chemists and biologists to disseminate recent results or as complements to academic articles in an easy way. With Stmol the user can visualize standard file formats like xyz, mol, pdb, cube, among others. Currently it is the preferred way to deploy molecular models by scientists using Streamlit.
+        Hi, In this work we present Stmol, a custom component for introducing molecular 3D visualizations in Streamlit web apps. Stmol depends on the popular package Py3DMol and is intended for helping computational chemists and biologists to disseminate recent results or as complements to academic articles in an easy way. With Stmol the user can visualize standard file formats like xyz, mol, pdb, cube, among others. Currently it is the preferred way to deploy molecular models by scientists using Streamlit.
     """)
 
 frame1, frame2,frame3 = st.columns([1,1,1])
